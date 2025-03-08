@@ -1,0 +1,446 @@
+[
+    {
+        "id": 1,
+        "name": "RX-78-2 Gundam",
+        "imageName": "rx_78_2_gundam",
+        "grade": "MG",
+        "series": "Mobile Suit Gundam",
+        "details": "The RX-78-2 Gundam is the iconic mobile suit from the original Mobile Suit Gundam series, known for its balance and versatility. Piloted by Amuro Ray, it played a pivotal role in the One Year War against the Principality of Zeon. The MG (Master Grade) 1/100 scale model kit, released by Bandai, features a detailed inner frame and posable parts. The model stands approximately 18 cm tall and includes various accessories such as a beam rifle, shield, and beam sabers. The kit also features realistic decals and a cockpit hatch that opens. Released in 2013, this version is known for its advanced articulation and build complexity, making it a favorite among collectors.",
+        "isFavorite": true,
+        "storeAddress": "Shopee Vietnam, 278 Cong Hoa, Tan Binh, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.8036,
+            "longitude": 106.6297
+        },
+        "additionalImages": ["rx_78_2_gundam_2", "rx_78_2_gundam_3"],
+        "features": [
+            "Scale: 1/100",
+            "Parts Count: 200+",
+            "Difficulty Level: Intermediate",
+            "Dimensions: 18cm tall",
+            "Material: Plastic",
+            "Accessories: Beam rifle, shield, beam sabers",
+            "Release Year: 2013",
+            "Articulation: Advanced"
+        ],
+        "reviews": [
+            "This model is a masterpiece! The articulation and detail are incredible. ★★★★★",
+            "A must-have for any Gundam fan. The build complexity is just right. ★★★★☆"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=QRFd0YOBu7k",
+        "reviewStars": 4,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "MS-06 Zaku II",
+        "imageName": "ms_06_zaku_ii",
+        "grade": "HG",
+        "series": "Mobile Suit Gundam",
+        "details": "The MS-06 Zaku II is a mass-produced mobile suit from the Principality of Zeon, known for its reliability and ease of maintenance. Piloted by numerous Zeon aces, including Char Aznable, it was a formidable opponent during the One Year War. The HG (High Grade) 1/144 scale model kit, released by Bandai, features detailed external armor and weaponry including a Zaku machine gun, heat hawk, and bazooka. Standing about 13 cm tall, the model is known for its ease of assembly and durability, making it suitable for both beginners and experienced builders. Released in 2015, the kit also includes various stickers for additional detailing.",
+        "isFavorite": false,
+        "storeAddress": "Lazada Vietnam, 123 Cach Mang Thang Tam, District 1, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.7729,
+            "longitude": 106.6910
+        },
+        "additionalImages": ["ms_06_zaku_ii_2", "ms_06_zaku_ii_3"],
+        "features": [
+            "Scale: 1/144",
+            "Parts Count: 100+",
+            "Difficulty Level: Beginner",
+            "Dimensions: 13cm tall",
+            "Material: Plastic",
+            "Accessories: Zaku machine gun, heat hawk, bazooka",
+            "Release Year: 2015",
+            "Articulation: Basic"
+        ],
+        "reviews": [
+            "A classic kit that's perfect for beginners. Easy to assemble and looks great. ★★★★☆",
+            "Simple yet effective. A great addition to any collection. ★★★★☆"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=pQJSv9PRQKs",
+        "reviewStars": 4,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Wing Gundam Zero",
+        "imageName": "wing_gundam_zero",
+        "grade": "RG",
+        "series": "Mobile Suit Gundam Wing",
+        "details": "Wing Gundam Zero is the powerful mobile suit piloted by Heero Yuy in Mobile Suit Gundam Wing, featuring the iconic Twin Buster Rifle. Its Zero System allows the pilot to interface directly with the suit, enhancing combat effectiveness. The RG (Real Grade) 1/144 scale model kit, released by Bandai, includes a highly detailed inner frame and posable wings for dynamic display options. Standing approximately 13 cm tall, the model features intricate color separation and decals for added realism. The kit, released in 2014, also includes various weaponry and interchangeable hand parts, making it a highly customizable and display-worthy model.",
+        "isFavorite": true,
+        "storeAddress": "Tiki Vietnam, 200 Dien Bien Phu, Binh Thanh, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.7898,
+            "longitude": 106.6982
+        },
+        "additionalImages": ["wing_gundam_zero_2", "wing_gundam_zero_3"],
+        "features": [
+            "Scale: 1/144",
+            "Parts Count: 200+",
+            "Difficulty Level: Intermediate",
+            "Dimensions: 13cm tall",
+            "Material: Plastic",
+            "Accessories: Twin Buster Rifle, beam sabers, shield",
+            "Release Year: 2014",
+            "Articulation: Advanced"
+        ],
+        "reviews": [
+            "Incredible detail and articulation. One of the best RG kits available. ★★★★★",
+            "A must-have for Gundam Wing fans. The wings are amazing. ★★★★★"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=C8i7bLzad_g",
+        "reviewStars": 5,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Unicorn Gundam",
+        "imageName": "unicorn_gundam",
+        "grade": "MG",
+        "series": "Mobile Suit Gundam Unicorn",
+        "details": "Unicorn Gundam is a state-of-the-art mobile suit with a powerful psychoframe system that can transform between Unicorn and Destroy Mode. Piloted by Banagher Links, it is central to the conflict in Mobile Suit Gundam Unicorn. The MG (Master Grade) 1/100 scale model kit, released by Bandai, features an elaborate transformation mechanism and detailed inner frame. Standing about 18 cm tall in Unicorn Mode and slightly taller in Destroy Mode, the model includes beam magnum, shield, and beam sabers. Released in 2012, the kit offers a challenging build and stunning final display, complete with various decals for added detail.",
+        "isFavorite": false,
+        "storeAddress": "Aeon Mall, 30 Bo Bao Tan Thang, Son Ky, Tan Phu, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.8010,
+            "longitude": 106.6213
+        },
+        "additionalImages": ["unicorn_gundam_2", "unicorn_gundam_3"],
+        "features": [
+            "Scale: 1/100",
+            "Parts Count: 300+",
+            "Difficulty Level: Advanced",
+            "Dimensions: 18cm tall",
+            "Material: Plastic",
+            "Accessories: Beam magnum, shield, beam sabers",
+            "Release Year: 2012",
+            "Transformation: Unicorn Mode to Destroy Mode"
+        ],
+        "reviews": [
+            "Amazing transformation mechanism. Truly a masterpiece. ★★★★★",
+            "Challenging but rewarding build. Highly detailed. ★★★★★"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=cAQlcFs-XMk",
+        "reviewStars": 5,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Gundam Barbatos",
+        "imageName": "gundam_barbatos",
+        "grade": "HG",
+        "series": "Mobile Suit Gundam: Iron-Blooded Orphans",
+        "details": "Gundam Barbatos is the fierce and agile mobile suit piloted by Mikazuki Augus in Mobile Suit Gundam: Iron-Blooded Orphans. It is known for its versatility and ability to adapt to various combat situations. The HG (High Grade) 1/144 scale model kit, released by Bandai, features detailed armor and weaponry including a mace, sword, and smoothbore gun. Standing about 12 cm tall, the model is known for its robust articulation and ease of posing. Released in 2015, the kit also includes various stickers for detailing, making it a popular choice for fans of the series.",
+        "isFavorite": false,
+        "storeAddress": "Vincom Center, 72 Le Thanh Ton, District 1, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.7769,
+            "longitude": 106.7009
+        },
+        "additionalImages": ["gundam_barbatos_2", "gundam_barbatos_3"],
+        "features": [
+            "Scale: 1/144",
+            "Parts Count: 200+",
+            "Difficulty Level: Intermediate",
+            "Dimensions: 12cm tall",
+            "Material: Plastic",
+            "Accessories: Mace, sword, smoothbore gun",
+            "Release Year: 2015",
+            "Articulation: High degree of poseability"
+        ],
+        "reviews": [
+            "Incredible articulation and detail for its scale. ★★★★★",
+            "A must-have for fans of Iron-Blooded Orphans. ★★★★☆"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=A_IBbU-rTxU",
+        "reviewStars": 4.5,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Strike Freedom Gundam",
+        "imageName": "strike_freedom_gundam",
+        "grade": "PG",
+        "series": "Mobile Suit Gundam SEED Destiny",
+        "details": "Strike Freedom Gundam is the upgraded version of Freedom Gundam, equipped with DRAGOON system for all-range attacks. Piloted by Kira Yamato, it is one of the most powerful suits in Mobile Suit Gundam SEED Destiny. The PG (Perfect Grade) 1/60 scale model kit, released by Bandai, features an intricate inner frame and posable wings with individual DRAGOON units. Standing approximately 30 cm tall, the model is highly detailed with multiple articulation points and includes beam rifles, beam sabers, and a beam shield. Released in 2010, the kit is renowned for its complexity and stunning display options, complete with various decals for added realism.",
+        "isFavorite": true,
+        "storeAddress": "Takashimaya Vietnam, 92-94 Nam Ky Khoi Nghia, District 1, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.7763,
+            "longitude": 106.7020
+        },
+        "additionalImages": ["strike_freedom_gundam_2", "strike_freedom_gundam_3"],
+        "features": [
+            "Scale: 1/60",
+            "Parts Count: 500+",
+            "Difficulty Level: Expert",
+            "Dimensions: 30cm tall",
+            "Material: Plastic",
+            "Accessories: Beam rifles, beam sabers, beam shield, DRAGOON units",
+            "Release Year: 2010",
+            "Articulation: Highly posable with multiple articulation points"
+        ],
+        "reviews": [
+            "A masterpiece in design and articulation. ★★★★★",
+            "Challenging but worth every effort. ★★★★★"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=iGBDkaMiZf0",
+        "reviewStars": 4.8,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Gundam Exia",
+        "imageName": "gundam_exia",
+        "grade": "MG",
+        "series": "Mobile Suit Gundam 00",
+        "details": "Gundam Exia is designed for close combat with its GN Sword and Seven Sword system, piloted by Setsuna F. Seiei. It plays a crucial role in the series Mobile Suit Gundam 00. The MG (Master Grade) 1/100 scale model kit, released by Bandai, includes a detailed inner frame and multiple weapons. Standing about 18 cm tall, the model features excellent articulation and can be posed in various dynamic stances. Released in 2009, the kit also includes LED units for the GN Drive and various decals for enhanced detailing.",
+        "isFavorite": false,
+        "storeAddress": "CGV Vincom, 70 Le Thanh Ton, District 1, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.7770,
+            "longitude": 106.7011
+        },
+        "additionalImages": ["gundam_exia_2", "gundam_exia_3"],
+        "features": [
+            "Scale: 1/100",
+            "Parts Count: 250+",
+            "Difficulty Level: Intermediate",
+            "Dimensions: 18cm tall",
+            "Material: Plastic",
+            "Accessories: GN Sword, Seven Sword system, beam sabers, shield",
+            "Release Year: 2009",
+            "Articulation: Highly posable with multiple articulation points"
+        ],
+        "reviews": [
+            "Amazing details and articulation. ★★★★★",
+            "A must-have for Gundam 00 fans. ★★★★☆"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=E8_mDUDSEy0",
+        "reviewStars": 4.7,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Sinanju",
+        "imageName": "sinanju",
+        "grade": "MG",
+        "series": "Mobile Suit Gundam Unicorn",
+        "details": "Sinanju is a powerful mobile suit with excellent maneuverability and firepower, piloted by Full Frontal. It is central to the conflict in Mobile Suit Gundam Unicorn. The MG (Master Grade) 1/100 scale model kit, released by Bandai, features a highly detailed inner frame and posable armor. Standing approximately 22 cm tall, the model includes various weaponry such as a beam rifle, beam saber, and shield. Released in 2008, the kit is known for its impressive size and intricate detailing, complete with numerous decals and stickers for added realism.",
+        "isFavorite": true,
+        "storeAddress": "ToyCity, 5 Nguyen Hue, District 1, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.7754,
+            "longitude": 106.7036
+        },
+        "additionalImages": ["sinanju_2", "sinanju_3"],
+        "features": [
+            "Scale: 1/100",
+            "Parts Count: 400+",
+            "Difficulty Level: Advanced",
+            "Dimensions: 22cm tall",
+            "Material: Plastic",
+            "Accessories: Beam rifle, beam saber, shield, posable armor",
+            "Release Year: 2008",
+            "Articulation: Highly posable with multiple articulation points"
+        ],
+        "reviews": [
+            "Impressive size and detailing. ★★★★★",
+            "A challenging but rewarding build. ★★★★☆"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=N86AuftbRmw",
+        "reviewStars": 4.8,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Gundam F91",
+        "imageName": "gundam_f91",
+        "grade": "HG",
+        "series": "Mobile Suit Gundam F91",
+        "details": "Gundam F91 is a compact and powerful mobile suit with bio-computer systems and variable speed beam rifles. Piloted by Seabook Arno, it is central to the events of Mobile Suit Gundam F91. The HG (High Grade) 1/144 scale model kit, released by Bandai, features detailed armor and weaponry including beam rifles and a beam shield. Standing about 12 cm tall, the model is known for its ease of assembly and posability. Released in 2010, the kit also includes various stickers for additional detailing, making it a popular choice for fans of the series.",
+        "isFavorite": false,
+        "storeAddress": "Lego Store, 68 Ly Tu Trong, District 1, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.7739,
+            "longitude": 106.6983
+        },
+        "additionalImages": ["gundam_f91_2", "gundam_f91_3"],
+        "features": [
+            "Scale: 1/144",
+            "Parts Count: 150+",
+            "Difficulty Level: Intermediate",
+            "Dimensions: 12cm tall",
+            "Material: Plastic",
+            "Accessories: Beam rifles, beam shield",
+            "Release Year: 2010",
+            "Articulation: Good posability with several articulation points"
+        ],
+        "reviews": [
+            "Easy to assemble and looks great. ★★★★☆",
+            "Perfect for beginners and fans of the series. ★★★★★"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=DewMOTxL2jA",
+        "reviewStars": 4.5,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Sazabi",
+        "imageName": "sazabi",
+        "grade": "MG",
+        "series": "Mobile Suit Gundam: Char's Counterattack",
+        "details": "Sazabi is the imposing mobile suit piloted by Char Aznable, known for its powerful armaments and psycho-frame technology. It plays a key role in the film Mobile Suit Gundam: Char's Counterattack. The MG (Master Grade) 1/100 scale model kit, released by Bandai, features a detailed inner frame and posable armor parts. Standing approximately 25 cm tall, the model includes various weaponry such as a beam shot rifle, beam sabers, and a shield. Released in 2008, the kit is highly detailed and includes numerous decals and stickers for added realism.",
+        "isFavorite": true,
+        "storeAddress": "Bandai Vietnam, 45 Tran Hung Dao, District 1, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.7694,
+            "longitude": 106.6997
+        },
+        "additionalImages": ["sazabi_2", "sazabi_3"],
+        "features": [
+            "Scale: 1/100",
+            "Parts Count: 200+",
+            "Difficulty Level: Advanced",
+            "Dimensions: 25cm tall",
+            "Material: Plastic",
+            "Accessories: Beam shot rifle, beam sabers, shield",
+            "Release Year: 2008",
+            "Articulation: Excellent posability with multiple articulation points"
+        ],
+        "reviews": [
+            "Incredible detail and size. ★★★★★",
+            "A must-have for Char Aznable fans. ★★★★☆"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=wdrSyni0b7E",
+        "reviewStars": 4.8,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Tallgeese",
+        "imageName": "tallgeese",
+        "grade": "RG",
+        "series": "Mobile Suit Gundam Wing",
+        "details": "Tallgeese is a high-performance mobile suit piloted by Zechs Merquise in Mobile Suit Gundam Wing, featuring superior speed and agility. It is equipped with a Dober Gun, beam sabers, and a large shield. The RG (Real Grade) 1/144 scale model kit, released by Bandai, includes a detailed inner frame and posable thruster units. Standing about 13 cm tall, the model features excellent articulation and detailed armor parts. Released in 2013, the kit includes various decals and stickers for added realism, making it a popular choice among collectors for its dynamic poseability and detail.",
+        "isFavorite": false,
+        "storeAddress": "HobbyLink, 3-5 Le Loi, District 1, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.7710,
+            "longitude": 106.7033
+        },
+        "additionalImages": ["tallgeese_2", "tallgeese_3"],
+        "features": [
+            "Scale: 1/144",
+            "Parts Count: 150+",
+            "Difficulty Level: Intermediate",
+            "Dimensions: 13cm tall",
+            "Material: Plastic",
+            "Accessories: Dober Gun, beam sabers, shield",
+            "Release Year: 2013",
+            "Articulation: Excellent posability with detailed inner frame"
+        ],
+        "reviews": [
+            "Great articulation and details. ★★★★★",
+            "A fantastic build for Gundam Wing fans. ★★★★☆"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=WEgWhb9cjcw",
+        "reviewStars": 4.5,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Gundam Mk-II",
+        "imageName": "gundam_mk_ii",
+        "grade": "MG",
+        "series": "Mobile Suit Zeta Gundam",
+        "details": "Gundam Mk-II is an advanced mobile suit from the Titans, featured in Mobile Suit Zeta Gundam. Piloted by Kamille Bidan, it is equipped with movable frame technology for enhanced agility and versatility in battle. The MG (Master Grade) 1/100 scale model kit, released by Bandai, features a detailed inner frame and posable armor. Standing approximately 18 cm tall, the model includes various weaponry such as a beam rifle, bazooka, and beam sabers. Released in 2002, the kit is known for its articulation and build quality, making it a favorite among fans. The model also comes with various marking stickers and water decals for added detail.",
+        "isFavorite": true,
+        "storeAddress": "Aeon Mall Tan Phu, 30 Bo Bao Tan Thang, Tan Phu, Ho Chi Minh City, Vietnam",
+        "locationCoordinate": {
+            "latitude": 10.80168,
+            "longitude": 106.61712
+        },
+        "additionalImages": ["gundam_mk_ii_2", "gundam_mk_ii_3"],
+        "features": [
+            "Scale: 1/100",
+            "Parts Count: 250+",
+            "Difficulty Level: Advanced",
+            "Dimensions: 18cm tall",
+            "Material: Plastic",
+            "Accessories: Beam rifle, bazooka, beam sabers",
+            "Release Year: 2002",
+            "Articulation: Excellent posability with detailed inner frame"
+        ],
+        "reviews": [
+            "One of the best MG kits out there. ★★★★★",
+            "A must-have for Zeta Gundam fans. ★★★★☆"
+        ],
+        "videoURL": "https://www.youtube.com/watch?v=XMpzW0J75fc",
+        "reviewStars": 4.8,
+        "popularityData": [
+            {"grade": "HG", "popularity": 90},
+            {"grade": "MG", "popularity": 80},
+            {"grade": "RG", "popularity": 70},
+            {"grade": "PG", "popularity": 50}
+        ]
+    }
+]
